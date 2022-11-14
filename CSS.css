@@ -1,0 +1,23 @@
+body{
+    box-sizing: content-box;
+}
+div{
+    width: 50%;
+}
+h2{
+    font-size: 18px;
+}
+p{
+    font-size: 14px;
+    text-align: justify;
+    padding-left: 30%;
+}
+#first-section{
+    color: green;
+}
+#second-section{
+    color: red;
+}
+#third-section{
+    color: blue;
+}
