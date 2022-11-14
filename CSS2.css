@@ -1,0 +1,15 @@
+body{
+    box-sizing: content-box;
+}
+h2{
+    color: red;
+}
+.likes{
+    background-color: aquamarine;
+}
+.dislikes{
+    background-color: aqua;
+}
+div{
+    width: 50%;
+}
